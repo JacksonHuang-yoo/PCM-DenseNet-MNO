@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
+# The main framework for this code comes from "Gerry" on kaggle. For this reason, we express our heartfelt thanks.
+# However, the part of the established deep learning model in this project was re established and improved by the research group itself.
 
 import tensorflow as tf
 from tensorflow import keras
